@@ -1,0 +1,2 @@
+# my-hacker-rank-solutions-in-js
+O HackerRank é um portal com conteúdo e desafios de programação para exercitar suas habilidades. Esse repositório é um compilado das minhas soluções aos desafios dessa plataforma na linguagem Javascript. Essa é uma forma interessante de exercitar programação em vários níveis, e estou aprendendo muito com isso. Espero poder ajudar quem também tem interesse em programação.
